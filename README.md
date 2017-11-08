@@ -19,7 +19,7 @@ Also you won't be able to use this on Battleye protected games without having a 
 
 ## Credits
 
-* **Ragemachine** - *for his great work on the R6 SDK and his renderer*
+* **RangeMachine** - *for his great work on the R6 SDK and his renderer*
 * **Striekcarl** - *for his work on the Battlegrounds chams, which I adapted into a D3D11 hook*
 * **Lordchanka** - *for his help in general*
 * **Rest of the folk at UC** - *I wouldn't have been able to make this without them*
